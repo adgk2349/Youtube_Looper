@@ -1,5 +1,7 @@
 # YouTube Looper（リリース専用）
 
+[한국어](./README.md) | [English](./README.en.md) | [日本語](./README.ja.md)
+
 このリポジトリは **リリース配布物のみ** を管理します。
 ソースコードは別の非公開リポジトリで管理されています。
 
@@ -11,9 +13,9 @@
 ![ホストアプリ画面](./screenshots/host-app-window.png)
 
 ## ドキュメント言語
-- 韓国語（メイン）: `README.md`
-- English: `README.en.md`
-- 日本語: `README.ja.md`
+- [韓国語（メイン）](./README.md)
+- [English](./README.en.md)
+- [日本語](./README.ja.md)
 
 ## 注記
 - このリポジトリにはアプリのソースコードは含まれません。

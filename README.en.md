@@ -1,5 +1,7 @@
 # YouTube Looper (Release-only)
 
+[한국어](./README.md) | [English](./README.en.md) | [日本語](./README.ja.md)
+
 This repository is used for **release artifacts only**.
 Source code is maintained in a separate private repository.
 
@@ -11,9 +13,9 @@ Source code is maintained in a separate private repository.
 ![Host App Window](./screenshots/host-app-window.png)
 
 ## Documentation Languages
-- Korean (main): `README.md`
-- English: `README.en.md`
-- Japanese: `README.ja.md`
+- [Korean (main)](./README.md)
+- [English](./README.en.md)
+- [Japanese](./README.ja.md)
 
 ## Note
 - No application source code is included in this repository.
