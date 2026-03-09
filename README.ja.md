@@ -6,6 +6,10 @@
 ## ダウンロード
 - 最新ビルド: [Releases](https://github.com/adgk2349/Youtube_Looper/releases)
 
+## スクリーンショット
+![ポップアップUI](./screenshots/popup-loop-control.png)
+![ホストアプリ画面](./screenshots/host-app-window.png)
+
 ## ドキュメント言語
 - 韓国語（メイン）: `README.md`
 - English: `README.en.md`

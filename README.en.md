@@ -6,6 +6,10 @@ Source code is maintained in a separate private repository.
 ## Download
 - Latest builds: [Releases](https://github.com/adgk2349/Youtube_Looper/releases)
 
+## Screenshots
+![Popup UI](./screenshots/popup-loop-control.png)
+![Host App Window](./screenshots/host-app-window.png)
+
 ## Documentation Languages
 - Korean (main): `README.md`
 - English: `README.en.md`
