@@ -19,3 +19,6 @@ Source code is maintained in a separate private repository.
 
 ## Note
 - No application source code is included in this repository.
+
+## Copyright
+- © 2026 adgk2349. All rights reserved.
