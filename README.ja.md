@@ -5,6 +5,10 @@
 このリポジトリは **リリース配布物のみ** を管理します。
 ソースコードは別の非公開リポジトリで管理されています。
 
+[![Mac App Store](https://img.shields.io/badge/App_Store-Download-0D96F6?style=for-the-badge&logo=apple&logoColor=white)](https://apps.apple.com/kr/app/looper-for-youtube/id6805764066?mt=12)
+
+**[Mac App StoreでLooper for Youtubeをダウンロード](https://apps.apple.com/kr/app/looper-for-youtube/id6805764066?mt=12)**
+
 ## ダウンロード
 - 最新ビルド: [Releases](https://github.com/adgk2349/Youtube_Looper/releases)
 
