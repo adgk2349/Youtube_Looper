@@ -5,6 +5,10 @@
 이 저장소는 **릴리즈 배포 파일만** 관리합니다.
 소스 코드는 별도 비공개 저장소에서 관리됩니다.
 
+[![Mac App Store](https://img.shields.io/badge/App_Store-Download-0D96F6?style=for-the-badge&logo=apple&logoColor=white)](https://apps.apple.com/kr/app/looper-for-youtube/id6805764066?mt=12)
+
+**[Mac App Store에서 Looper for Youtube 다운로드](https://apps.apple.com/kr/app/looper-for-youtube/id6805764066?mt=12)**
+
 ## 다운로드
 - 최신 배포 파일: [Releases](https://github.com/adgk2349/Youtube_Looper/releases)
 
