@@ -5,6 +5,10 @@
 This repository is used for **release artifacts only**.
 Source code is maintained in a separate private repository.
 
+[![Mac App Store](https://img.shields.io/badge/App_Store-Download-0D96F6?style=for-the-badge&logo=apple&logoColor=white)](https://apps.apple.com/kr/app/looper-for-youtube/id6805764066?mt=12)
+
+**[Download Looper for Youtube on the Mac App Store](https://apps.apple.com/kr/app/looper-for-youtube/id6805764066?mt=12)**
+
 ## Download
 - Latest builds: [Releases](https://github.com/adgk2349/Youtube_Looper/releases)
 
