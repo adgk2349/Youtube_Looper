@@ -9,6 +9,8 @@
 
 **[Mac App StoreでLooper for Youtubeをダウンロード](https://apps.apple.com/kr/app/looper-for-youtube/id6805764066?mt=12)**
 
+> **App Store版について:** App Storeで配信中のバージョンは、このリポジトリで公開している配布物から安定性と使いやすさを改善した最新版です。通常の利用にはApp Store版をおすすめします。
+
 ## ダウンロード
 - 最新ビルド: [Releases](https://github.com/adgk2349/Youtube_Looper/releases)
 
@@ -25,4 +27,4 @@
 - このリポジトリにはアプリのソースコードは含まれません。
 
 ## 著作権
-- © 2026 adgk2349. All rights reserved.
+Copyright © 2026 Redbridge Company. All rights reserved.
