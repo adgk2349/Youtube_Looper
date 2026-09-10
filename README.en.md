@@ -9,6 +9,8 @@ Source code is maintained in a separate private repository.
 
 **[Download Looper for Youtube on the Mac App Store](https://apps.apple.com/kr/app/looper-for-youtube/id6805764066?mt=12)**
 
+> **App Store version:** The App Store release is the latest version, with stability and usability improvements beyond the public release artifacts in this repository. For regular use, we recommend downloading it from the App Store.
+
 ## Download
 - Latest builds: [Releases](https://github.com/adgk2349/Youtube_Looper/releases)
 
@@ -25,4 +27,4 @@ Source code is maintained in a separate private repository.
 - No application source code is included in this repository.
 
 ## Copyright
-- © 2026 adgk2349. All rights reserved.
+Copyright © 2026 Redbridge Company. All rights reserved.
